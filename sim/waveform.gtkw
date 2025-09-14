@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Mon Aug  4 09:20:17 2025
+[*]
+[dumpfile] "/home/navarro/Desktop/test/hwsec_verilator/sim/waveform.fst"
+[dumpfile_mtime] "Mon Aug  4 09:20:11 2025"
+[dumpfile_size] 792
+[savefile] "/home/navarro/Desktop/test/hwsec_verilator/sim/waveform.gtkw"
+[timestart] 0
+[size] 1523 774
+[pos] 2832 2344
+*-12.640576 29000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[sst_width] 276
+[signals_width] 222
+[sst_expanded] 1
+[sst_vpaned_height] 216
+@22
+TOP.LED_counter.leds[7:0]
+TOP.LED_counter.div_counter[4:0]
+@200
+-
+@28
+TOP.LED_counter.rst_n
+TOP.clk
+[pattern_trace] 1
+[pattern_trace] 0
